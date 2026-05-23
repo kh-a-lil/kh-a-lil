@@ -4,33 +4,9 @@
   Software Engineering Student • AI & Systems Enthusiast
 </p>
 
----
-
-### 🧠 About Me
-
-- ⚙️ Strong in **C, Python, Shell, and Git**
-- 🤖 Built AI & algorithmic projects
-- 🧩 Worked on:
-  - Maze generation & solving
-  - Multi-Agent Path Finding
-  - Restricted Generation Algorithm
-- 📚 Experienced with:
-  - BFS
-  - DFS
-  - Dijkstra
-  - A*
-- 🛠️ Low-level C projects:
-  - Custom `printf`
-  - Dining Philosophers
-- 🖥️ System administration:
-  - LVM
-  - UFW
-  - Linux services & setup
-- 🚀 Currently focusing on:
-  - Web Development
-  - DevOps
-  - Cloud
-  - AI Engineering
+<p align="center">
+  Passionate about building efficient systems, solving complex problems, and constantly sharpening my skills.
+</p>
 
 ---
 
@@ -55,5 +31,5 @@
 ---
 
 <p align="center">
-  Building, breaking, optimizing.
+  Currently focused on Web Development, DevOps, Cloud, and AI.
 </p>
