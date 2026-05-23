@@ -9,7 +9,7 @@
 </p>
 
 ---
-<h1 align="center">⚡ Tech Stack</h1>
+<h2 align="center">⚡ Tech Stack</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
